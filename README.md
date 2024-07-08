@@ -3,6 +3,6 @@ The package contains the data and models used in the paper _Harnessing Physics-i
 
 This package is designed to screen catalysts for dehydrogenation or hydrogenation reactions. The example shown in the tutorial is the dehydrogenation reaction of methyl cyclohexane (CH3-C6H11) forming toluene (CH3-C6H5) and hydrogen.
 
-The DH&HML package contains two folders and one tutorial slide.
+The DH&HML package contains two folders and one tutorial slide. Note that all scripts were written in MATLAB and all the DFT optimised atomic structures were saved as .xyz files.
 
 Enjoy exploring the catalyst!
